@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organisation>
+    <orgName>OOO MUSOR</orgName>
+    <department>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MANAGEMENT</deptName>
+            <location>LOS ANGELES</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Viktor</empName>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Nikita</empName>
+                    <managerNo>E04</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Evgeniy</empName>
+                </employee>
+            </employees>
+        </department>
+    </department>
+</organisation>

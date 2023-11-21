@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+        
+    <Employee id="1">
+                
+        <name>tigran</name>
+                
+        <gender>male</gender>
+                
+        <age>18</age>
+                
+        <role>Papa</role>
+            
+    </Employee>
+        
+    <Employee id="3">
+                
+        <name>Artyom</name>
+                
+        <gender>male</gender>
+                
+        <age>20</age>
+                
+        <role>Genius</role>
+            
+    </Employee>
+    
+</Employees>

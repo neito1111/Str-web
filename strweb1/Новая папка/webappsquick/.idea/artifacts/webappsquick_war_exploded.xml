@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webappsquick:war exploded">
+    <output-path>$PROJECT_DIR$/webappsquick/target/webappsquick-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>webappsquick</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webappsquick" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.oracle.ozark:ozark:1.0.0-m01" />
+          <element id="library" level="project" name="Maven: javax.mvc:javax.mvc-api:1.0-edr1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/webappsquick/target/webappsquick-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="webappsquick/web/Web" />
+    </root>
+  </artifact>
+</component>

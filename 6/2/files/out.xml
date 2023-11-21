@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personXML>
+    <id>1</id>
+    <surname>Ivanov</surname>
+    <forename>Pedro</forename>
+    <patronymic>Xmlevich</patronymic>
+    <dob>2003-10-20</dob>
+    <sex>1</sex>
+    <passportSeries>sdgdsg</passportSeries>
+    <passportNumber>zxczx</passportNumber>
+    <city>Minsk</city>
+    <address>Log trakt</address>
+    <phoneHome>282-51-75</phoneHome>
+    <phoneMobile>+375445846948</phoneMobile>
+    <citizenship>yes</citizenship>
+    <dutyBound>78</dutyBound>
+</personXML>

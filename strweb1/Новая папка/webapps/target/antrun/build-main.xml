@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>Using env.test.properties</echo>
+  <copy file="src/main/resources/env.test.properties" tofile="D:\17230083 25 Хачатрян Тигрна\5 сем\Стр-web\Новая папка\webapps\target\classes/env.test.properties"/>
+</target>
+</project>

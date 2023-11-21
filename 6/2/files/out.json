@@ -1,0 +1,15 @@
+{
+  "id": "2",
+  "surname": "Petrov",
+  "forename": "Petus",
+  "patronymic": "Jsonovich",
+  "sex": 1,
+  "passportSeries": "sdgdsg",
+  "passportNumber": "zxczx",
+  "city": "Minsk",
+  "address": "Log trakt",
+  "phoneHome": "282-51-75",
+  "phoneMobile": "+375445846948",
+  "citizenship": "yes",
+  "dutyBound": 21
+}

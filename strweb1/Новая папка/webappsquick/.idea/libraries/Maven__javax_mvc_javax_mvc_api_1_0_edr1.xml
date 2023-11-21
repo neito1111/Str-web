@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.mvc:javax.mvc-api:1.0-edr1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mvc/javax.mvc-api/1.0-edr1/javax.mvc-api-1.0-edr1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mvc/javax.mvc-api/1.0-edr1/javax.mvc-api-1.0-edr1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mvc/javax.mvc-api/1.0-edr1/javax.mvc-api-1.0-edr1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
